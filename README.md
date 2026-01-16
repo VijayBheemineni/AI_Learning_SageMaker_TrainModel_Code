@@ -1,5 +1,9 @@
 # AI Learning: SageMaker Model Training with XGBoost
 
+**TODO:** Update code to use **SageMaker Python SDK V3**
+
+**Note:** This repository currently uses **SageMaker Python SDK V2**
+
 ## 🎯 What This Repository Is About
 
 This repository is part of my journey into AI/ML, building on my cloud and infrastructure background. Here, I'm focusing on **training machine learning models using AWS SageMaker and the XGBoost algorithm**.
